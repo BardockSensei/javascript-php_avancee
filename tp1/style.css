@@ -1,0 +1,18 @@
+.container {
+  margin-top: 50px;
+  max-width: 600px;
+}
+.tab-content {
+  border: 1px solid #ddd;
+  border-top: 0;
+  padding: 20px;
+  background-color: #fff;
+}
+.nav-tabs .nav-link {
+  border: 1px solid #ddd;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+.form-check {
+  margin-top: 15px;
+}
